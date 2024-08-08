@@ -1,4 +1,5 @@
-## Hi there 👋
+## Caleb's profile
+Welcome to my github profile. I like airplanes and coding.
 
 <!--
 **skyhawkcharlie/skyhawkcharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
